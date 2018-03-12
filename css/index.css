@@ -1,0 +1,28 @@
+body {
+  background-image:url("https://s17.postimg.org/pgy52o6wv/sharp-1844964_1920.jpg");
+    color: white;
+  background-size: cover;
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#header {
+  background:rgba(0,0,0,.5);
+  border: 5px solid white; 
+  border-radius: 25px;
+}
+
+.row {
+  background:rgba(0,0,0,.5);
+  border: 5px solid white; 
+  border-radius: 25px;
+  margin:20px;
+}
+
+ #top .col-md-4 {
+  font-size: 200%;
+}
+
+img {
+  width: 80px;
+}
